@@ -2,6 +2,7 @@ import Title from './Title'
 import Intro from './Intro'
 import Hobby1 from './Hobby1'
 import Hobby2 from './Hobby2'
+import './App.css'
 
 function App() {
 

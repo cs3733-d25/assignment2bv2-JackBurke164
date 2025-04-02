@@ -1,3 +1,4 @@
+import './List.css'
 function List2() {
     return(
         <div>
