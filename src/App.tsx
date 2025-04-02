@@ -10,7 +10,7 @@ function App() {
   return (
       <div>
           <Title></Title>
-          <Intro></Intro>
+          <Intro nameOne="John Burke" nameTwo="Henry Pharris"></Intro>
           <Hobby1></Hobby1>
           <Hobby2></Hobby2>
       </div>
